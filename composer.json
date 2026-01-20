@@ -1,5 +1,5 @@
 {
-  "name": "turbophp/framework",
+  "name": "turbophp-org/framework",
   "description": "一个轻量、高性能的 PHP 框架，专注于以最小的运行开销和清晰的架构构建现代 Web 服务与应用。",
   "type": "library",
   "license": "Apache-2.0",
