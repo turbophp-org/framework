@@ -1,6 +1,6 @@
 {
   "name": "turbophp-org/framework",
-  "description": "TurboPHP 是一个轻量、高性能的 PHP Web 框架，适用于构建快速、可扩展的 Web 应用与 API 服务。",
+  "description": "TurboPHP 框架完整库，整合核心模块（HTTP、路由、事件、DI、视图、日志等），提供开箱即用的现代 PHP 应用开发解决方案。",
   "type": "library",
   "license": "Apache-2.0",
   "require": {
@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Turbo\\": "src/"
+      "TurboPHP\\Framework\\": "src/"
     }
   },
   "minimum-stability": "stable",
