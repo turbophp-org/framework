@@ -47,4 +47,4 @@ TurboPHP 是一个轻量、高性能的 PHP Web 框架，适用于构建快速�
 通过 Composer 安装：
 
 ```bash
-composer require turbophp/framework
+composer require turbophp-org/framework
